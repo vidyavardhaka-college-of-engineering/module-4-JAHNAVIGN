@@ -18,3 +18,4 @@ int main()
    printf("%d %d %d",s1.marks,s2.marks,s3.marks); 
   return 0;
 } 
+//DONE
