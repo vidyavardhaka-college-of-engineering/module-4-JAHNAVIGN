@@ -21,3 +21,4 @@ int main()
      //compute and print the average
     return 0;
 } 
+//DONE
