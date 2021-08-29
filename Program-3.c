@@ -16,3 +16,4 @@ sum1 =s.a+s.b;
 //compute sum
 printf("Sum=%d",sum1);
 }
+//DONE
