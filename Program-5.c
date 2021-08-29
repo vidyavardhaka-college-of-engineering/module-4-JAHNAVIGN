@@ -19,3 +19,4 @@ int main()
     printf("%s %d %d", b1.name, b1.price, b1.pages); 
      return 0;
 } 
+//DONE
